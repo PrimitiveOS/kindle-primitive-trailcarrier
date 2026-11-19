@@ -1,0 +1,15 @@
+name: Release
+on:
+  push:
+    tags: ["v*"]
+jobs:
+  release:
+    permissions:
+      contents: write
+    uses: DoanNguyenTrong/kindle-primitive-build/.github/workflows/package.yml@9533d481058f4d67b29568f40b30017ddcb32c8e
+    with:
+      id: primitive-trailcarrier
+      dir: trailcarrier
+      binary-crate: trailcarrier-kindle
+      docs-licence-file: LICENSE-DOCS
+      sibling-tools-ref: 107f15a5cd893b66cdacdb406a3144342224b592

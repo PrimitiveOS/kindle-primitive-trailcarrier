@@ -1,0 +1,11 @@
+[package]
+name = "trailcarrier-desktop"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+trailcarrier-core.workspace = true
+trailcarrier-render.workspace = true
+primitive-app.workspace = true
+primitive-ui.workspace = true

@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "id": "primitive-trailcarrier",
+  "dir": "trailcarrier",
+  "name": "Trail Carrier",
+  "subtitle": "Carry parcels through a growing trail",
+  "developer": {
+    "name": "Primitive AI"
+  },
+  "categories": [
+    "games"
+  ],
+  "description": "Tap a neighboring square or use an arrow to move one step. Each parcel makes your trail longer. Plan a path around walls and your trail, then head for the exit when it opens.\n\nThe exit opens after you collect every parcel. Clear ten routes and use Undo to recover from a wrong turn.",
+  "repo": "https://github.com/DoanNguyenTrong/kindle-primitive-trailcarrier",
+  "licence": "PolyForm-Noncommercial-1.0.0",
+  "source": "hosted",
+  "icon": "icon.png",
+  "changes": {
+    "network": false,
+    "stops_kindle_ui": false,
+    "starts_at_boot": false,
+    "root_filesystem": false,
+    "hooks": false
+  },
+  "versions": []
+}
