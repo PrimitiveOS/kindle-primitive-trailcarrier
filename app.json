@@ -11,7 +11,7 @@
     "games"
   ],
   "description": "Tap a neighboring square or use an arrow to move one step. Each parcel makes your trail longer. Plan a path around walls and your trail, then head for the exit when it opens.\n\nThe exit opens after you collect every parcel. Clear ten routes and use Undo to recover from a wrong turn.",
-  "repo": "https://github.com/DoanNguyenTrong/kindle-primitive-trailcarrier",
+  "repo": "https://github.com/PrimitiveOS/kindle-primitive-trailcarrier",
   "licence": "PolyForm-Noncommercial-1.0.0",
   "source": "hosted",
   "icon": "icon.png",
