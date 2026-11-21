@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="icon.png" alt="kindle-primitive-trailcarrier icon" width="110">
+<img src="icon.png" alt="Trail Carrier icon" width="110">
 
-# kindle-primitive-trailcarrier
+# Trail Carrier
 
 [![Release](https://img.shields.io/github/v/release/PrimitiveOS/kindle-primitive-trailcarrier?label=release)](https://github.com/PrimitiveOS/kindle-primitive-trailcarrier/releases)
 
@@ -11,6 +11,8 @@
 </div>
 
 ---
+
+> Trail Carrier is retired. Snake replaces it in Store.
 
 ## Quick start
 
@@ -48,7 +50,7 @@ The desktop target exercises the touch controls and writes previews to `build/pr
 
 ## Downloads
 
-Not yet listed in Store.
+Trail Carrier is retired and no longer listed in Store. Snake replaces it.
 
 ## Documentation
 
