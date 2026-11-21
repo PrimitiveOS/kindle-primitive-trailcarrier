@@ -12,4 +12,4 @@ jobs:
       dir: trailcarrier
       binary-crate: trailcarrier-kindle
       docs-licence-file: LICENSE-DOCS
-      sibling-tools-ref: 107f15a5cd893b66cdacdb406a3144342224b592
+      sibling-tools-ref: 779145c93a65b2fb8c104485af6489a8ef565de6

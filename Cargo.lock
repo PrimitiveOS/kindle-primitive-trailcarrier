@@ -1008,14 +1008,14 @@ checksum = "009dbb7700f11c55ef83aebbe4c0e9cf1f1ac0844bd8d6f00dc38f302026e13a"
 
 [[package]]
 name = "trailcarrier-core"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "serde",
 ]
 
 [[package]]
 name = "trailcarrier-desktop"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "primitive-app",
  "primitive-ui",
@@ -1025,7 +1025,7 @@ dependencies = [
 
 [[package]]
 name = "trailcarrier-kindle"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "primitive-app",
  "trailcarrier-core",
@@ -1034,7 +1034,7 @@ dependencies = [
 
 [[package]]
 name = "trailcarrier-render"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "primitive-app",
  "primitive-ui",
