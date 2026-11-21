@@ -1,6 +1,10 @@
 <div align="center">
 
-# Trailcarrier
+<img src="icon.png" alt="Trail Carrier icon" width="110">
+
+# Trail Carrier
+
+**Retired. Snake replaces it in Store.**
 
 [![CI](https://img.shields.io/github/actions/workflow/status/PrimitiveOS/kindle-primitive-trailcarrier/ci.yml?branch=main&label=CI)](https://github.com/PrimitiveOS/kindle-primitive-trailcarrier/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/PrimitiveOS/kindle-primitive-trailcarrier?label=release)](https://github.com/PrimitiveOS/kindle-primitive-trailcarrier/releases)
