@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="icon.png" alt="Trail Carrier icon" width="110">
-
-# Trail Carrier
+# Trailcarrier
 
 [![CI](https://img.shields.io/github/actions/workflow/status/PrimitiveOS/kindle-primitive-trailcarrier/ci.yml?branch=main&label=CI)](https://github.com/PrimitiveOS/kindle-primitive-trailcarrier/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/PrimitiveOS/kindle-primitive-trailcarrier?label=release)](https://github.com/PrimitiveOS/kindle-primitive-trailcarrier/releases)
@@ -10,7 +8,9 @@
 [![Licence: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/licence-PolyForm%20Noncommercial%201.0.0-blue)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/PrimitiveOS/kindle-primitive-trailcarrier?style=social)](https://github.com/PrimitiveOS/kindle-primitive-trailcarrier/stargazers)
 
-[**Download**](https://github.com/PrimitiveOS/kindle-primitive-trailcarrier/releases/latest) · [**Install guide**](INSTALL.md) · [**Changelog**](CHANGELOG.md)
+[**Download**](https://github.com/PrimitiveOS/kindle-primitive-trailcarrier/releases/latest) ·
+[**Install guide**](INSTALL.md) ·
+[**Changelog**](CHANGELOG.md)
 
 </div>
 
