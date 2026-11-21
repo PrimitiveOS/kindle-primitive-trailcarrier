@@ -205,7 +205,7 @@ impl View {
 impl App for View {
     fn draw(&self, canvas: &mut Canvas) {
         let w = canvas.bounds().w;
-        header(canvas, "Trail Carrier", "Done");
+        header(canvas, "Trail Carrier", "Exit");
         let state = self.game.status();
         let moves = self.game.moves_left();
         let move_label = if moves == 1 { "move" } else { "moves" };
