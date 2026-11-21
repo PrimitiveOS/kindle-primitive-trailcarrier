@@ -1,16 +1,21 @@
-# Trail Carrier
+<div align="center">
 
-**Collect every parcel and reach the exit within the move budget.**
+<img src="icon.png" alt="kindle-primitive-trailcarrier icon" width="110">
 
-A native game for PrimitiveOS. Tap a neighboring square or use an arrow to move one step. Each parcel makes your trail longer. Plan a path around walls and your trail, then head for the exit when it opens.
+# kindle-primitive-trailcarrier
 
-## How to play
+[![Release](https://img.shields.io/github/v/release/PrimitiveOS/kindle-primitive-trailcarrier?label=release)](https://github.com/PrimitiveOS/kindle-primitive-trailcarrier/releases)
 
-- **Step**. Tap a neighboring square or use the arrow buttons. A blocked step costs no move.
-- **Collect parcels**. A parcel grows your trail. On a regular step, the tail moves off its last square.
-- **Finish the route**. The exit opens after you collect every parcel. Clear ten routes and use Undo to recover from a wrong turn.
+[**Download**](https://github.com/PrimitiveOS/kindle-primitive-trailcarrier/releases/latest) · [**Install guide**](INSTALL.md) · [**Changelog**](CHANGELOG.md)
 
-Progress saves between launches. **Done** returns to Launcher.
+</div>
+
+---
+
+## Quick start
+
+After setting up PrimitiveOS, open **Store** from Primitive Launcher. Choose **kindle-primitive-trailcarrier** under **Apps**,
+tap **Get**, and open it from the Launcher grid. The [install guide](INSTALL.md) also covers the standalone USB package.
 
 ## Screenshots
 
@@ -24,11 +29,6 @@ Progress saves between launches. **Done** returns to Launcher.
 
 Desktop simulation captures at 1264 × 1680 pixels.
 
-## Install
-
-After setting up PrimitiveOS, open **Store** from Launcher. Find **Trail Carrier** under **Apps** and choose **Get**.
-See the [installation guide](INSTALL.md) for the local build workflow.
-
 ## Develop locally
 
 Keep the Tools and Launcher checkouts next to this repository.
@@ -39,6 +39,20 @@ cargo run --offline --locked -p trailcarrier-desktop
 ```
 
 The desktop target exercises the touch controls and writes previews to `build/previews/`.
+
+## Status
+
+| Device | Status |
+|---|---|
+| Kindle Oasis 3 (1264 × 1680, firmware 5.18.2) | Not yet tested on hardware |
+
+## Downloads
+
+Not yet listed in Store.
+
+## Documentation
+
+[Install guide](INSTALL.md) · [Changelog](CHANGELOG.md)
 
 ## Licence
 
